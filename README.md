@@ -18,7 +18,7 @@ I enjoy working on projects that blend structure with creativity, especially one
 
 ## ✨ Interests Beyond Code
 
-- 📚 Collecting and reading cozy fantasy philosophical fiction  
+- 📚 Collecting and reading cozy fantasy fiction  
 - 🎮 Playing story-driven and immersive video games  
 - 🖌️ Drawing digital illustration in Procreate and traditional media
 - ☀️ Enjoying quiet, sunny days with a good cup of coffee  
