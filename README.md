@@ -5,9 +5,12 @@ I enjoy working on projects that blend structure with creativity, especially one
 
 ## 🌱stats
 
-![Madeline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+<a href="https://github.com/knovu/knovu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madwrote&show_icons=true&line_height=27&count_private=true&theme=vue-dark" alt="madwrote's GitHub Stats" />
+</a>
+<a href="https://github.com/knovu/knovu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madwrote&langs_count=3&theme=vue-dark" alt="madwrote's most used languages" />
+</a>
 
 <!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-bg=true)-->
 
