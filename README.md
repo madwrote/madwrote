@@ -5,10 +5,10 @@ I enjoy working on projects that blend structure with creativity, especially one
 
 ## 🌱stats
 
-<!--<a href="https://github.com/knovu/knovu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madwrote&show_icons=true&line_height=27&count_private=true&theme=vue-dark" alt="madwrote's GitHub Stats" />
-</a>-->
-<a href="https://github.com/knovu/knovu">
+<a href="https://github.com/madwrote/madwrote">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madwrote&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="madwrote's GitHub Stats" />
+</a>
+<a href="https://github.com/madwrote/madwrote">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madwrote&langs_count=3&theme=dracula" alt="madwrote's most used languages" />
 </a>
 
