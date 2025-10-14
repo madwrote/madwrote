@@ -16,7 +16,7 @@ I enjoy working on projects that blend structure with creativity, especially one
 
 <!--## 🌱 projects im working on-->
 
-## ✨ Hobbies
+## ✨ hobbies
 
 - 📚 Collecting and reading cozy fantasy fiction  
 - 🎮 Playing story-driven and immersive video games  
