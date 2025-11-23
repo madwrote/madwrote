@@ -13,20 +13,15 @@
 
 
 
-## 👋 Hi, I'm Madeline!
+## 👋 Hi, I'm Madeline (she/her)
 
-- 💻 I'm a self-taught front-end web developer who is just trying thier best ♡
+- 💻 I'm a self-taught front-end web developer who is just trying their best ♡
 
 - my fav languages so far are `.html`, `.css`, and `.js`.
 
-- I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress)
-
 - 🎮 I love coding, drawing, playing video games, and writing
  
-- ☀️ Enjoying quiet, sunny days
-
-with a passion for clean design, thoughtful interaction, and creative problem-solving. 
-I enjoy working on projects that blend structure with creativity, especially ones that involve organizing content and improving user experience.
+<!-- - I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress) -->
 
 ## 🌱stats
 
