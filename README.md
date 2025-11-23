@@ -1,14 +1,31 @@
-            __
-           / _)    <(   hello ♡  )
-    .-^^^-/ /
- __/       /  
-<__.|_|-|_|
+
+          |\___/|       <(   hello ♡  )
+         =) oYo (=            
+          \  ^  /
+           )=*=(       
+          /     \
+          |     |
+         /| | | |\
+         \| | |_|/\
+         //_// ___/
+             \_) 
+
 
 
 
 ## 👋 Hi, I'm Madeline!
 
-I'm a self-taught front-end web developer with a passion for clean design, thoughtful interaction, and creative problem-solving. 
+- 💻 I'm a self-taught front-end web developer who is just trying thier best ♡
+
+- my fav languages so far are `.html`, `.css`, and `.js`.
+
+- I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress)
+
+- 🎮 I love coding, drawing, playing video games, and writing
+ 
+- ☀️ Enjoying quiet, sunny days
+
+with a passion for clean design, thoughtful interaction, and creative problem-solving. 
 I enjoy working on projects that blend structure with creativity, especially ones that involve organizing content and improving user experience.
 
 ## 🌱stats
@@ -23,13 +40,6 @@ I enjoy working on projects that blend structure with creativity, especially one
 <!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-bg=true)-->
 
 <!--## 🌱 projects im working on-->
-
-## ✨ hobbies
-
-- 📚 Collecting and reading cozy fantasy fiction  
-- 🎮 Playing story-driven and immersive video games  
-- 🖌️ Drawing digital illustration in Procreate and traditional media
-- ☀️ Enjoying quiet, sunny days with a good cup of coffee  
 
 <!---
 madwrote/madwrote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
