@@ -1,3 +1,15 @@
+
+          |\___/|       <(   hello ♡  )
+         =) oYo (=            
+          \  ^  /
+           )=*=(       
+          /     \
+          |     |
+         /| | | |\
+         \| | |_|/\
+         //_// ___/
+             \_) 
+
 ## 👋 Hi, I'm Madwrote (she/her)
 
 - 💻 I'm a self-taught front-end web developer who is just trying their best ♡
@@ -17,17 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madwrote&langs_count=3&theme=dracula" alt="madwrote's most used languages" />
 </a>
 
-
-          |\___/|       <(   hello ♡  )
-         =) oYo (=            
-          \  ^  /
-           )=*=(       
-          /     \
-          |     |
-         /| | | |\
-         \| | |_|/\
-         //_// ___/
-             \_) 
 
 
 <!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-bg=true)-->
