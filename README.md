@@ -13,7 +13,7 @@
 
 
 
-## 👋 Hi, I'm Madeline (she/her)
+## 👋 Hi, I'm Madwrote (she/her)
 
 - 💻 I'm a self-taught front-end web developer who is just trying their best ♡
 
