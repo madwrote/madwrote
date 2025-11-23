@@ -1,3 +1,22 @@
+ __________
+< hello ♡ >
+ ----------
+       \  
+        \
+         \
+          \
+          |\___/|
+         =) oYo (=            
+          \  ^  /
+           )=*=(       
+          /     \
+          |     |
+         /| | | |\
+         \| | |_|/\
+         //_// ___/
+             \_) 
+
+
 ## 👋 Hi, I'm Madeline!
 
 I'm a self-taught front-end web developer with a passion for clean design, thoughtful interaction, and creative problem-solving. 
