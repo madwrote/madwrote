@@ -16,11 +16,13 @@
 
 - my fav languages so far are `.html`, `.css`, and `.js`.
 
-- 🎮 I love coding, drawing, playing video games, and writing
- 
+- 🎮 I love drawing, playing video games, and writing
+
+- I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress)
+
 <!-- - I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress) -->
 
-## 🌱stats
+<!-- ## 🌱stats
 
 <!-- <a href="https://github.com/madwrote/madwrote">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madwrote&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="madwrote's GitHub Stats" />
