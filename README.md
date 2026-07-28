@@ -18,7 +18,7 @@
 
 - 🎮 I love drawing, playing video games, and writing
 
-- I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress)
+<!-- LINK ISNT READY YET SRY - I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress) -->
 
 <!-- - I have a [nekoweb website](https://madwrote.nekoweb.org/) to embrace the old internet (still in progress) -->
 
